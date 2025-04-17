@@ -21,5 +21,5 @@ CPU usage,
 memory usage, 
 disk activity, 
 and Docker container stats.
-Screenshot
-* A screenshot of the Netdata dashboard is available in the screenshot folder as dashboard.png.
+### Screenshot
+- A screenshot of the Netdata dashboard is available in the screenshot folder as dashboard.png.
